@@ -1,4 +1,3 @@
-
 <div class="filter-container">
 <label for="startDate">تاريخ البداية:</label>
 <input type="date" id="startDate">
